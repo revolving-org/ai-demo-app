@@ -3,7 +3,7 @@
 Demo SaaS app for MCP blog - AI-powered content platform
 
 ## Team
-- **AI Team**: Sagar, Neha
+- **AI Team**: Sagar
 - **Backend Team**: Swathi
 - **Frontend Team**: Zeeshan
 - **Managers**: Jay
