@@ -1,3 +1,18 @@
-# MCP Demo - AI Content Platform
+# ai-dummy-app
 
-Demo repository for MCP blog post.
+Demo SaaS app for MCP blog - AI-powered content platform
+
+## Team
+- **AI Team**: Sagar, Neha
+- **Backend Team**: Swathi
+- **Frontend Team**: Zeeshan
+- **Managers**: Jay
+
+## Structure
+```
+ai-dummy-app/
+├── backend/        # FastAPI backend
+├── frontend/       # React frontend
+├── ai-service/     # LLM integration
+└── docs/
+```
