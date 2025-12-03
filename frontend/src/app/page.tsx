@@ -1,8 +1,10 @@
 export default function Home() {
   return (
-    <main className="min-h-screen p-8">
-      <h1 className="text-4xl font-bold">AI Demo App</h1>
-      <p className="mt-4 text-gray-600">Welcome to the AI chat application.</p>
-    </main>
+    <section>
+      <h2 className="text-xl font-semibold">Welcome</h2>
+      <p className="text-gray-700 mt-2">
+        This is a sample AI chat demo project.
+      </p>
+    </section>
   );
 }
