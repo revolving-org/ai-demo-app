@@ -1,0 +1,5 @@
+app:
+  name: ai-demo-app
+  debug: true
+auth:
+  token_expiry: 3600
